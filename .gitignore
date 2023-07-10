@@ -1,0 +1,16 @@
+# Arquivos e diretórios específicos do Docker
+.dockerignore
+Dockerfile
+.dockerignore
+.dockerignore.template
+
+# Diretório de node_modules
+node_modules/
+
+# Arquivos gerados pelo TypeScript
+dist/
+
+# Arquivos de log
+logs/
+
+# Outros arquivos e diretórios que você deseja ignorar no contexto do Docker
